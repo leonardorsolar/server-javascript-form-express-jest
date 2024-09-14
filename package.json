@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "my-express-app": "file:"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
